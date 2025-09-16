@@ -7,6 +7,7 @@ header{
 }
 
 #home{
+    height: 115vh;
     background: url('./assets/Group1.png');
     background-size: cover;
 }
