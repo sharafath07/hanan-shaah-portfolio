@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+
+header{
+}
+
+#home{
+    background: url('./assets/Group1.png');
+    background-size: cover;
+}
+.section{
+    height: 100vh;
+}
